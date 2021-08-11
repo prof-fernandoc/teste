@@ -1,0 +1,17 @@
+Options -Indexes
+RewriteEngine on
+
+AuthType Basic
+AuthName "Digite sua senha"
+
+# esta chave precisa estar criada para funcionar
+AuthUserFile /var/www/chave/.htpasswd
+
+Require valid-user
+
+deny from 13.52.74.101
+deny from 60.191.38.77
+
+# negar tudo por padrao, mudar se realmente for
+# utilizar essa interface /admin para gerenciamento.
+deny from All

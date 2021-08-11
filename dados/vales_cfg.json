@@ -1,0 +1,19 @@
+{
+    "vales": {
+        "label": "Texto 1 para Vales",
+        "value": "Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis volutpat lorem ipsum dolor sit amet dolor consequat.",
+        "version": "2019-12-28 23:46:33",
+		"img_destaque": "pic03.jpg",
+		"img_destaque_alt": "Texto alternativo"
+    },
+	
+	"home6.jpg": {
+        "label": "Rótulo da imagem home6.jpg",
+        "description": "<b>Descrição</b> da Imagem home6.jpg"
+    },
+	
+	"pic01.jpg": {
+        "label": "Rótulo da imagem pic01.jpg",
+        "description": "<b>Descrição</b> da Imagem pic01.jpg"
+    }
+}

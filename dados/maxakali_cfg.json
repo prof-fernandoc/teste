@@ -1,0 +1,440 @@
+{
+    "maxakali": {
+        "label": "Texto 1 para Maxakali",
+        "value": "Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis volutpat lorem ipsum dolor sit amet dolor consequat.",
+        "version": "2019-12-28 23:46:33",
+		"img_destaque": "pic04.jpg",
+		"img_destaque_alt": "Texto alternativo"
+    },
+	
+	"ex01.jpg": {
+        "label": "Rótulo da imagem home6.jpg",
+        "description": "<b>Descrição</b> da Imagem home6.jpg"
+    },
+	
+	
+
+    "0016.jpg": {
+        
+        "description": "Cemitério da fazenda Tocoiós,comunidade Alagadiço, município de Coronel Murta -déc.80, autoria - Geralda Soares "
+    },
+
+     "0022.jpg": {
+        
+        "description": "Exposição do Artesanato Maxakali - Capivaras, local Palácio das Artes em BH - foto - Geralda Soares"
+    },
+
+    "0025.jpg": {
+        
+        "description": "Cemitério da fazenda Tocoiós,comunidade Alagadiço, município de Coronel Murta -déc.80, autoria - Geralda Soares"
+    },
+
+    "0037.jpg": {
+        
+        "description": "Bertópolis -MG , déc.80, autoria Geralda Soares"
+    },
+
+    "0040.jpg": {
+        
+        "description": "Aldeia provisória Pradinho em Bertópolis - MG, déc.80,autoria Geralda Soares"
+    },
+
+    "0042.jpg": {
+        
+        "description": "Bertópolis -MG , déc.80, autoria Geralda Soares"
+    },
+
+    "0043.jpg": {
+        
+        "description": "Plantação de milho pelo Povo Maxakali, loca- Bertópolis -MG , déc.80, foto - Geralda Soares"
+    },
+
+    "0044.jpg": {
+        
+        "description": "Córrego em Bertópolis -MG , déc.80, autoria Geralda Soares"
+    },
+
+    "0046.jpg": {
+        
+        "description": "Bertópolis -MG , déc.80, autoria Geralda Soares"
+    },
+
+    "0048.jpg": {
+        
+        "description": "Aldeia provisória -de Pradinho em Bertópolis-MG - déc.80, foto- Geralda Soares"
+    },
+
+    "0049.jpg": {
+        
+        "description": "Aldeia provisória de Pradinho em Bertópolis-MG -déc.80, autoria Geralda Soares"
+    },
+
+    "0050.jpg": {
+        
+        "description": "Território Maxakali em Bertópolis-MG -déc.80, foto -Geralda Soares"
+    },
+
+    "0051.jpg": {
+        
+        "description": "Território Maxakali em Bertópolis-MG -déc.80, autoria da foto Geralda Soares"
+    },
+
+    "0053.jpg": {
+        
+        "description": "Distrito Batinga em Bertópolis-MG -déc.80, autoria da foto Geralda Soares"
+    },
+
+    "0055.jpg": {
+        
+        "description": "Marco de Bronze - Território Maxakali, em Bertópolis-MG -déc.80, autoria da foto Geralda Soares"
+    },
+
+    "0060.jpg": {
+        
+        "description": "-território Maxakali em Bertópolis-MG -déc.80, autoria da foto Geralda Soares"
+    },
+
+    "0075A.jpg": {
+        
+        "description": "História contada por Kelé Maxakali - foto e material de - Claudia Ribeiro,1994"
+    },
+
+    "0077A.jpg": {
+        
+        "description": "Mapa de localização de terra indígena -projeto patrocinado pela Minas- Brasil Seguradora, autores descritos na foto nº 78"
+    },
+
+    "0077B.jpg": {
+        
+        "description": "Cont. Mapa de localização de terra.- projeto patrocinado pela Minas- Brasil Seguradora, autores descritos na foto nº 78"
+    },
+
+    "0078.jpg": {
+        
+        "description": "Autores dos mapas 77A e 77B"
+    },
+
+
+    "0098A.jpg": {
+        
+        "description": " Povo Maxakali -foto Hilton Viotti,1993"
+    },
+
+    "0098B.jpg": {
+        
+        "description": "Povo Maxakali -foto Hilton Viotti,1993"
+    },
+
+    "0099A.jpg": {
+        
+        "description": " Ritual Maxakali -foto Hilton Viotti,1993"
+    },
+
+    "0099B.jpg": {
+        
+        "description": "Hilton Viotti,1993"
+    },
+
+    "0100A.jpg": {
+        
+        "description": "Povo Maxakali - foto Nívea Dias,1993"
+    },
+
+     "0100B.jpg": {
+        
+        "description": "Nívea Dias,1993 "
+    },
+
+     "0102A.jpg": {
+        
+        "description": "Povo Maxakali -foto Hilton Viotti,1993"
+    },
+
+     "0102B.jpg": {
+        
+        "description": "Povo Maxakali -foto Hilton Viotti,1993"
+    },
+
+     "0103A.jpg": {
+        
+        "description": "Membros do projeto Maxakali em 1993"
+    },
+
+     "0104A.jpg": {
+        
+        "description": "Mulher e criança Maxakali,foto -Nívea Dias,1993"
+    },
+
+     "0104B.jpg": {
+        
+        "description": "Maxakali,foto -Nívea Dias,1993"
+    },
+
+     "0105A.jpg": {
+        
+        "description": "Aldeia Povo Maxakali -foto Hilton Viotti,1993"
+    },
+
+     "0105B.jpg": {
+        
+        "description": "Foto Hilton Viotti,1993"
+    },
+
+     "0106A.jpg": {
+        
+        "description": " -Povo Maxakali-  Lucina e Zé Leão - foto -Nívea Dias,1993"
+    },
+
+     "0106B.jpg": {
+        
+        "description": "- foto- Nívea Dias, 1993"
+    },
+
+     "0107A.jpg": {
+        
+        "description": " - Alcinda Maxakali, foto-Hilton Viotti,1993"
+    },
+
+     "0107B.jpg": {
+        
+        "description": "Foto Hilton Viotti,1993"
+    },
+
+     "0108A.jpg": {
+        
+        "description": " -criança Maxakali, foto- Nívea Dias,1993"
+    },
+
+     "0108B.jpg": {
+        
+        "description": "- foto- Nívea Dias,1993"
+    },
+
+     "0109A.jpg": {
+        
+        "description": " -Crianças Maxakali, foto-Hilton Viotti,1993"
+    },
+
+     "0109B.jpg": {
+        
+        "description": "Foto Hilton Viotti,1993"
+    },
+
+     "0110A.jpg": {
+        
+        "description": " - Mulheres Maxakali, foto-Hilton Viotti,1993"
+    },
+
+     "0110B.jpg": {
+        
+        "description": "Foto Hilton Viotti,1993"
+    },
+
+     "0111A.jpg": {
+        
+        "description": "-Alcinda Maxakali, foto-Hilton Viotti,1993"
+    },
+
+     "0111B.jpg": {
+        
+        "description": "-  foto-Hilton Viotti,1993"
+    },
+
+     "0112A.jpg": {
+        
+        "description": " Mulher Maxakali  - autoria da foto Hilton Viotti - 1993"
+    },
+
+     "0112B.jpg": {
+        
+        "description": " - autoria da foto- Hilton Viotti, 1993"
+    },
+
+     "0113A.jpg": {
+        
+        "description": " -Cartilha de campanha -CIMI"
+    },
+
+     "0115.jpg": {
+        
+        "description": "- Aldeia provisória de Pradinho em Bertópolis-MG -déc.80, autoria Geralda Soares.jpg"
+    },
+
+     "0117.jpg": {
+        
+        "description": "- Mata em Pradinho + Bertópolis-MG -déc.80, autoria Geralda Soares.jpg"
+    },
+
+     "0118.jpg": {
+        
+        "description": " - Território Maxakali em Bertópolis-MG -déc.80, autoria Geralda Soares.jpg"
+    },
+
+     "0119.jpg": {
+        
+        "description": " -  Bertópolis-MG -déc.80, autoria Geralda Soares.jpg"
+    },
+
+     "0121.jpg": {
+        
+        "description": "- Bertópolis-MG -déc.80, autoria Geralda Soares.jpg"
+    },
+
+     "0122.jpg": {
+        
+        "description": "- Bertópolis-MG -déc.80, autoria Geralda Soares.jpg"
+    },
+
+     "0123.jpg": {
+        
+        "description": "- Bertópolis-MG -déc.80, autoria Geralda Soares.jpg"
+    },
+
+     "0133.jpg": {
+        
+        "description": " - Bertópolis-MG -déc.80, autoria Geralda Soares.jpg"
+    },
+
+     "0136.jpg": {
+        
+        "description": "- Bertópolis-MG -déc.80, autoria Geralda Soares.jpg"
+    },
+
+     "0138.jpg": {
+        
+        "description": " - Próximo a aldeia Maxakali, 1988, foto Geralda Soares"
+    },
+
+     "0141.jpg": {
+        
+        "description": "- Plantação de milho pelo Povo Maxakali -aldeia Maxakali Pradinho, déc. 80, foto Geralda Soares"
+    },
+
+     "0142.jpg": {
+        
+        "description": "- Plantação de milho pelo Povo Maxakali -aldeia Maxakali Pradinho, déc. 80, foto Geralda Soares"
+    },
+
+     "0144.jpg": {
+        
+        "description": "- Projeto Rondon -1988, foto Geralda Soares"
+    },
+
+     "0145.jpg": {
+        
+        "description": "- Bertópolis-MG -déc.80, autoria Geralda Soares.jpg"
+    },
+
+     "0149.jpg": {
+        
+        "description": "-Aldeia Pradinho -Bertópolis-MG -déc.80, autoria Geralda Soares.jpg"
+    },
+
+     "0157.jpg": {
+        
+        "description": "-Aldeia Topázio em Teófilo Otoni, 1982,foto Geralda Soares"
+    },
+
+     "0164.jpg": {
+        
+        "description": "-Maxakali - Município do Campanário - Vale do Mucuri, 2007,foto Geralda Soares"
+    },
+
+     "0171.jpg": {
+        
+        "description": "- Aldeia Maxakali - Campanário - Vale do Mucuri -2007"
+    },
+
+     "0174A.jpg": {
+        
+        "description": " - Corrégo Pradinho - Bertópolis, dec.80,foto Geralda Soares"
+    },
+
+     "0176.jpg": {
+        
+        "description": "-Aldeia Maxakali - Campanário - Vale do Mucuri,2006-2007, foto Geralda Soares"
+    },
+
+     "0177.jpg": {
+        
+        "description": "-Aldeia Maxakali - Campanário - Vale do Mucuri,2006-2007, foto Geralda Soares"
+    },
+
+     "0186.jpg": {
+        
+        "description": "Aldeia Pradinho -Bertópolis-MG -déc.80, .jpg"
+    },
+
+     "0189.jpg": {
+        
+        "description": "- Aldeia Pradinho -Bertópolis-MG -déc.80, autoria Geralda Soares.jpg"
+    },
+
+     "0192.jpg": {
+        
+        "description": "- Aldeia Pradinho -Bertópolis-MG -déc.80, foto- Geralda Soares.jpg"
+    },
+
+     "0220A.jpg": {
+        
+        "description": "- Aldeia Pradinho -Bertópolis-MG -déc.80, foto- Geralda Soares.jpg"
+    },
+
+     "0229A.jpg": {
+        
+        "description": " - Aldeia Pradinho -Bertópolis-MG -déc.80, foto- Geralda Soares.jpg"
+    },
+
+     "0233.jpg": {
+        
+        "description": "- Aldeia Pradinho -Bertópolis-MG -déc.80, foto- Geralda Soares.jpg"
+    },
+
+     "0234.jpg": {
+        
+        "description": "- Exposição do Artesanato Maxakali , local Palácio das Artes em BH - foto - Geralda Soares "
+    },
+
+     "0241.jpg": {
+        
+        "description": "Aldeia Pradinho -Bertópolis-MG -déc.80, foto- Geralda Soares"
+    },
+
+     "0250A.jpg": {
+        
+        "description": "Maxakali, 1988, foto - Conceição Projeto Rondon"
+    },
+
+     "0260.jpg": {
+        
+        "description": "Artesanato de mulheres Maxakali - tecendo com fibra de umbaúba, recorte de revista"
+    },
+
+     "0263A.jpg": {
+        
+        "description": " Pradinho MG, 1986,foto- Geralda Soares"
+    },
+
+     "0264.jpg": {
+        
+        "description": "Aldeia Pradinho -Bertópolis-MG -déc.80, foto- Geralda Soares"
+    },
+
+     "0273.jpg": {
+        
+        "description": "casa da religião do Povo Maxakali - Aldeia Pradinho -Bertópolis-MG -déc.80, foto- Geralda Soares"
+    },
+
+     "0287.jpg": {
+        
+        "description": " Território Maxakali em Pradinho - MG foto- Geralda Soares"
+    },
+
+     "0288.jpg": {
+        
+        "description": "Aldeia Pradinho -Bertópolis-MG -déc.80, foto- Geralda Soares"
+    }
+}
+
+
+

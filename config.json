@@ -1,0 +1,124 @@
+{
+    "menu": {
+        "label": "Menu",
+        "name": "menu",
+        "value": [
+            {
+                "id": "vales",
+                "label": "Vales do jequitinhonha e Mucurí"
+            },
+            {
+                "id": "projeto",
+                "label": "Projeto e Grupo de Pesquisa"
+            },
+            {
+                "id": "pedagoga",
+                "label": "Gera - Pedagoga"
+            },
+            {
+                "id": "maxakali",
+                "label": "Povo Maxakali"
+            },
+            {
+                "id": "apukare",
+                "label": "Território Aldeia Apukaré"
+            },
+            {
+                "id": "cinta",
+                "label": "Território Aldeia Cinta Vermelha Jundiba"
+            }
+        ],
+        "type": "table"
+    },
+    "externalmedia": {
+        "label": "V\u00eddeos",
+        "value": "http:\/\/youtube.com\/channel\/UCSU8lfTBxkvVVC8Z_XsShJw",
+        "version": "2019-12-28 23:46:33",
+        "name": "externalmedia",
+        "placeholder": "url do canal de v\u00eddeos externo",
+        "description": "V\u00eddeos em plataforma externa",
+        "type": "text"
+    },
+    "requestDocEmail": {
+        "label": "E-mail",
+        "value": "abdielb@gmail.com",
+        "version": "2019-11-11 23:46:33",
+        "name": "requestDocEmail",
+        "placeholder": "Digite o e-mail de contato",
+        "description": "E-Mail para responder a solicita\u00e7\u00f5es de documentos",
+        "type": "email"
+    },
+    "homeimg1": {
+        "label": "Jequibay",
+        "value": "images\/jequibay.jpeg",
+        "version": "2019-12-28 23:46:33",
+        "name": "homeimg1",
+        "placeholder": "Jequibay",
+        "description": "Jequibay",
+        "type": "image",
+        "mime": "image\/jpeg",
+        "size": 0
+    },
+    "homeimg2": {
+        "label": "Pintura do prof. Ernani Calazans",
+        "value": "dados\/projeto_img/21.jpg",
+        "version": "2019-12-28 23:46:33",
+        "name": "homeimg2",
+        "placeholder": "Pintura do prof. Ernani Calazans - homenagem à família de Cleonice do povo Pankararu Pataxó",
+        "description": "Pintura do prof. Ernani Calazans - homenagem à família de Cleonice do povo Pankararu Pataxó",
+        "type": "image",
+        "mime": "image\/jpeg",
+        "size": 0
+    },
+    "homeimg3": {
+        "label": "Geralda",
+        "value": "dados\/projeto_img/10.jpg",
+        "version": "2019-12-28 23:46:33",
+        "name": "homeimg3",
+        "placeholder": "Geralda",
+        "description": "Geralda",
+        "type": "image",
+        "mime": "image\/jpeg",
+        "size": 0
+    },
+    "homeimg4": {
+        "label": "Pintura do prof. Ernani Calazans",
+        "value": "dados\/projeto_img/16.jpg",
+        "version": "2019-12-28 23:46:33",
+        "name": "homeimg4",
+        "placeholder": "Pintura do prof. Ernani Calazans",
+        "description": "Pintura do prof. Ernani Calazans",
+        "type": "image",
+        "mime": "image\/jpeg",
+        "size": 0
+    },
+    "home_background_img": {
+        "label": "Imagem de fundo",
+        "value": "\/povos\/images\/p_inicial.jpg",
+        "version": "2019-12-28 23:46:33",
+        "name": "home_background_img",
+        "placeholder": "Uma descri\u00e7\u00e3o para a imagem de fundo",
+        "description": "Imagem de fundo da p\u00e1gina inicial",
+        "type": "image",
+        "mime": "image\/jpeg",
+        "size": 62123
+    },
+    "title": {
+        "label": "T\u00edtulo da plataforma",
+        "value": "Povos indígenas dos Vales do Jequitinhonha e Mucurí",
+        "version": "2019-10-28 23:46:33",
+        "name": "title",
+        "placeholder": "JLightWeight",
+        "description": "T\u00edtulo principal da p\u00e1gina",
+        "type": "text"
+    },
+    "subtitle": {
+        "label": "Subt\u00edtulo",
+        "value": "Conhecer para preservar",
+        "version": "2019-10-28 23:46:33",
+        "name": "subtitle",
+        "placeholder": "subtitle",
+        "description": "subtitle",
+        "type": "text"
+    }
+}

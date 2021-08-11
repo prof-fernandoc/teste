@@ -1,0 +1,80 @@
+{
+    "apukare": {
+        "label": "Texto 1 para Apukare",
+        "value": "Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis volutpat lorem ipsum dolor sit amet dolor consequat.",
+        "version": "2019-12-28 23:46:33",
+		"img_destaque": "pic04.jpg",
+		"img_destaque_alt": "Texto alternativo"
+    },
+	
+	"researcher1.jpg": {
+        "label": "Rótulo da imagem home6.jpg",
+        "description": "<b>Descrição</b> da Imagem home6.jpg"
+    },
+	
+	"pic04.jpg": {
+        "label": "Rótulo da imagem pic04.jpg",
+        "description": "<b>Descrição</b> da Imagem pic04.jpg"
+    },
+
+    "0659.jpg": {
+        
+        "description": "Área indicada por D. Benvina para construção da Aldeia Apukaré, 1994-Foto Geralda"
+    },
+
+    "0662.jpg": {
+        
+        "description": "Colocando o 1º telhado, 1996 - Aldeia Apukaré- foto Geralda Soares"
+    },
+
+    "0663.jpg": {
+        
+        "description": "Aldeia no começo- Apucaré - Geralda"
+    },
+
+    "0666.jpg": {
+        
+        "description": "Multirão para construção das casas - Aldeia Apukaré -Foto -Geralda"
+    },
+
+    "0707.jpg": {
+        
+        "description": "Chegada de materiais de contrução -1996 - Aldeia Apukaré.Foto - Geralda"
+    },
+
+    "0714.jpg": {
+        
+        "description": "Base da quadra Casinha de Avelina. - Geralda"
+    },
+
+    "0927.jpg": {
+        
+        "description": "Base da casa – Aldeia Apukaré-Geralda Soares"
+    },
+
+    "0659.jpg": {
+        
+        "description": "Área indicada por D. Benvina para construção da Aldeia Apukaré, 1994-Foto Geralda"
+    },
+
+    "0928.jpg": {
+        
+        "description": "Base da casa – Aldeia Apukaré-Geralda Soares"
+    },
+
+    "0965.jpg": {
+        
+        "description": "Casas prontas na Aldeia Apukaré, abril a set de 1996 Foto-  Geralda Soares"
+    },
+
+    "0990.jpg": {
+        
+        "description": " - Fossa construída em 4 casas - foto -Geralda Soares"
+    },
+
+    "1044.jpg": {
+        
+        "description": " - Cleonice Pankararu  -multirão para cobertura das casas - foto Geralda Soares"
+    }
+    
+}
